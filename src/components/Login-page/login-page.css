@@ -1,0 +1,80 @@
+*{
+    padding: 0;
+    margin: 0;
+    /* box-sizing: border-box; */
+    text-align:center;
+}
+.icon{
+        position: relative;
+        left: 11px;
+        top: 1px;
+        font-size: 85%;
+        color:#aeb1ae ;
+}
+#loginWholePage{
+    background-image: url(../Asset/bg1.jpg);
+    background-size: cover;
+    height: 100vh;
+    overflow: hidden;
+}
+.sideSection{
+    /* width: 33vh; */
+    box-sizing: border-box;
+}
+/* hr{
+    margin:50px;
+    box-sizing: border-box;
+} */
+.loginSection{
+    /* height: 100vh;  */
+    background-color: White;
+    box-sizing: border-box;
+    /* width: 34vh; */
+}
+label{
+    margin-right: 113px;
+}
+#button{
+    padding: 5px 67px;
+    border-radius: 50px;
+    background-color: #aad1f0;
+}
+input{
+    border-top-style:hidden;
+    border-right-style:hidden;
+    border-left-style:hidden;
+    /* border-bottom-style:hidden; */
+    border-bottom-color:#d1d4d1;
+    /* border-bottom: 1px; */
+}
+input:focus{
+    outline: none;
+}
+
+.google{
+    padding: 7px 8px 4px 8px;
+    margin: 5px 5px 50px;
+    font-size: 25px;
+    color: white;
+    background-color: rgb(195, 88, 39);
+    border-radius: 4px;
+}
+.login-btn{
+    background: url(../Asset/bg1.jpg);
+    color: white;
+}
+.twitter{
+    margin: 5px;
+    font-size: 50px;
+    color: rgb(51, 216, 255);
+    border-radius: 50px;
+}
+.facebook{
+    
+    margin: 5px;
+    padding: 1px 7px 2px 5px;
+    font-size: 30px;
+    color: white;
+    background-color: rgb(15, 72, 111);
+    border-radius: 4px;
+}
