@@ -8,15 +8,15 @@
     position: relative;
     left: 13px;
     top: 1px;
-    font-size: 85%; 
+    font-size: 85%;
     color: #aeb1ae;
 }
-#loginWholePage{
-    background-image: url(../Asset/bg1.jpg);
-    background-size: cover;
-    height: 100vh;
-    overflow: hidden;
-}
+    #loginWholePage{
+        background-image: url(../Asset/bg1.jpg);
+        background-size: cover;
+        height: 100vh;
+        overflow: hidden;
+    }
 .sideSection{
     /* width: 33vh; */
     box-sizing: border-box;
